@@ -2,3 +2,52 @@
   font-family: sans-serif;
   text-align: center;
 }
+#h1_Count{
+  font-size: 50px;
+  font-family: 'Orbitron', sans-serif !important;
+  margin-top: 0 !important;
+}
+i:hover{
+  color: rgb(106, 152, 252);
+}
+.Clock{
+  text-align: center;
+  display: block;
+  margin: auto !important;
+  background-color: black;
+  color: white;
+  padding:20px;
+  border-radius: 25px;
+  width: 200px;
+}
+.clip{
+  display: none;
+}
+div.play{
+  font-size: 50px;
+}
+.Controls{
+  display: flex;
+  align-items: center;
+}
+.Controls div{
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#root{
+  display: flex;
+  align-items: center;
+  height: 95vh;
+}
+.Creator{
+  text-align: center;
+  margin: 10px auto 0 auto !important;
+  font-family: 'Orbitron', sans-serif !important;
+  font-size: 12px;
+  position: absolute;
+  width:100%;
+  transform: translateY(10px);
+  left:0;
+  color:black;
+}
