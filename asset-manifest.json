@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CountdownTimer/static/css/main.4c9d52e0.css",
+    "main.js": "/CountdownTimer/static/js/main.f01b646a.js",
+    "static/media/fiveSec.mp3": "/CountdownTimer/static/media/fiveSec.036829e423d36e79aaf0.mp3",
+    "index.html": "/CountdownTimer/index.html",
+    "main.4c9d52e0.css.map": "/CountdownTimer/static/css/main.4c9d52e0.css.map",
+    "main.f01b646a.js.map": "/CountdownTimer/static/js/main.f01b646a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c9d52e0.css",
+    "static/js/main.f01b646a.js"
+  ]
+}
