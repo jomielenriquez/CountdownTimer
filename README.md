@@ -1,2 +1,2 @@
 # CountdownTimer
-Created with CodeSandbox
+This is a 25 + 5 Countdown timer
